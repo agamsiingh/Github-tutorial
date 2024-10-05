@@ -1,4 +1,5 @@
 Welcome to the tutorial
 changes made
-hello i am a B.tech CSE student and i am doing some changes in this repo.
-- Added a Few Useful Cheatsheets for Git
+hey 1st pull request completed
+hello this is my 1st pull request
+Hi!! I Added a Few Useful Cheatsheets for Git please checkout resources

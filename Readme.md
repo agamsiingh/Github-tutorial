@@ -11,6 +11,7 @@ So buddies, Begin your journey of open-source contribution now, and continue con
 
 >[!IMPORTANT]
 >Here are few important link <br>
+> GitHub Docs - https://docs.github.com/en
 > Hacktoberfest 2024 - https://hacktoberfest.com <br>
 > Beginner Resources of Hacktoberfest - https://hacktoberfest.com/participation/#beginner-resources<br>
 > Being Notified - https://www.youtube.com/@beingnotified21 <br>
